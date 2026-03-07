@@ -8,9 +8,9 @@ bioinformatics is field that combines biology,compu science and data analysis to
 this project demonstrates collaborative programming in bioinformatics using GitHub each group 
 
 ##Group member 
-HAMZA SADISU 
-sulaiman Abubakar 
-Fatima ishaq waziri
+HAMZA SADISU (python)
+sulaiman Abubakar (java)
+Fatima ishaq waziri(R)
 Bsiru Adamu damare
  
 ##GIThubusername
