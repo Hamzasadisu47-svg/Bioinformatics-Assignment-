@@ -10,15 +10,28 @@ this project demonstrates collaborative programming in bioinformatics using GitH
 ##Group member 
 HAMZA SADISU (python)
 sulaiman Abubakar (java)
-Fatima ishaq waziri(R)
-Bsiru Adamu damare
+Fatima isyaku waziri(R)
+Bsiru Adamu  damare (perl
  
 ##GIThubusername
 abubakarsulaiman-dot
 hamzasadisu47-svg
+wazirifatima528-oss
+
+##slakusername
+@hamza
+@fatimawaziri
+@sulaimanabubakr
+@basiru
 
 
-##slagusername
+##Area of interest 
+fatima isyaku waxiri-proteomics 
+hamza sadisu-Genomics 
+basiru Adama damare-metergenomic
+Abubakr sulaiman-trascriptomic
+
+
 
 
 
