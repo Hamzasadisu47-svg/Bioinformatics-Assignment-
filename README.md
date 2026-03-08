@@ -25,3 +25,24 @@ Implement workflow automation using Bash scripting.
 Practice collaborative software development using GitHub.
 Generate structured data outputs suitable for downstream analysis.
 Develop clear and professional project documentation using Markdown.
+
+IV.list of group member
+1.Hamza sadisu
+2.sulaiman Abubakar
+3.fatima isyaku waziri
+3.Basiru Adamu damagare
+4.zahra usman iliyasu
+
+v.Github username of the contributors
+1.hamzasadisu47-svg
+2.abubakarsulaiman-dot
+3.Wazirifatima528-oss
+4.
+5.
+
+vi.each member area of interest in bioinformatic
+1.hamza sadisu:Genomic
+2.sulaiman Abubakar:Transcriptomic
+3.Fatima isyaku waxiri:proteomic
+4:basiru Adamu damagere:metagenomic
+5:zahra usman iliyasu:clinical Bioinformatic
