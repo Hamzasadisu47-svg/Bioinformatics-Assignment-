@@ -80,11 +80,24 @@ zahrahusman
 
 
 Area of interest in bionformatic
-hamza sadisu:
-fatima isyaku waziri:
-sulaiman Abubakr:
-basiru Adamu damare:
-zahra usaman iliyasu:
+hamza sadisu:genomic
+
+fatima isyaku waziri:trascriptomic
+
+sulaiman Abubakr:trascriptomic
+
+basiru Adamu damare:genomic
+
+zahra usaman iliyasu:proteomic
+
+
+Authors
+
+This project was collaboratively developed by Group 3 as part of a Bioinformatics coursework assignment for 400 Level students in the Department of Human Anatomy, Sa’adu Zungur University, Bauchi State, Nigeria.
+
+lead Author/Project maintainer
+
+Hamza sadisu - workflow design, python script Development, Repository management. Github: 
 
 
  
