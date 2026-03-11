@@ -25,12 +25,12 @@ Practice collaborative software development using GitHub.
 Generate structured data outputs suitable for downstream analysis.
 Develop clear and professional project documentation using Markdown.
 
- list of the group member
- Hamza sadisu 
- sulaiman Abubakar 
- fatima isyaku waxiri
- Basiru Adamu damagere
- zahra usman Iliysu
+ list of the group member.
+ Hamza sadisu .
+ sulaiman Abubakar .
+ fatima isyaku Waxiri.
+ Basiru Adamu damagere.
+ zahra usman Iliysu.
 
  GIthub username
  
