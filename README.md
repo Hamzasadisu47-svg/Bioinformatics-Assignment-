@@ -39,17 +39,22 @@ NAme of the contributor
  GIthub username
 
 Name: Hamza Sadisu
-GitHub Username: hamzasadisu47-svg
+GitHub Username: 
+hamzasadisu47-svg
 
 Name: Fatima Waziri
-GitHub Username: fatimawaziri528-oss
+GitHub Username: 
+fatimawaziri528-oss
 
 Name: Abubakar Sulaiman
-GitHub Username: Abubakrsulaiman-dot
+GitHub Username: 
+Abubakrsulaiman-dot
 
 Name: Basiru Adamudamari
-GitHub Username: basiruadamudamare
+GitHub Username: 
+basiruadamudamare
 
 Name: Zahra Husman
-GitHub Username: zahrahusman
+GitHub Username: 
+zahrahusman
  
