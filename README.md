@@ -97,7 +97,11 @@ This project was collaboratively developed by Group 3 as part of a Bioinformatic
 
 lead Author/Project maintainer
 
-Hamza sadisu - workflow design, python script Development, Repository management. Github: 
+Hamza sadisu - workflow design, python script Development, Repository management. Github: https://github.com/Hamzasadisu47-svg/Bioinformatics-Assignment-/blob/main/README.md
+
+Conclusion
+
+This project introduces students to the fundamentals of bioinformatics and collaborative programming. Through the use of GitHub and documentation practices, students gain experience in teamwork, coding, and project organization which are essential skills in modern bioinformatics research.
 
 
  
