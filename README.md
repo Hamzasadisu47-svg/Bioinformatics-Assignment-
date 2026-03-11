@@ -35,7 +35,7 @@ NAme of the contributor
 
 4.basiru Adamu damagere
 
-5.zahra usamn iliyasu
+5.zahra usman iliyasu
 
  GIthub username
 
@@ -62,11 +62,11 @@ GitHub Username:
 
 basiruadamudamare
 
-Name: Zahra Husman
+Name: Zahra Usman
 
-GitHub Username: 
+GitHub Username:
 
-zahrahusman
+Zahrausman
 
 ## Group Members Matriculation Numbers
 
@@ -88,7 +88,7 @@ sulaiman Abubakr:trascriptomic
 
 basiru Adamu damare:genomic
 
-zahra usaman iliyasu:proteomic
+zahra usman iliyasu:proteomic
 
 
 Authors
