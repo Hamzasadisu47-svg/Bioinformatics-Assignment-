@@ -67,4 +67,15 @@ Name: Zahra Husman
 GitHub Username: 
 
 zahrahusman
+
+## Group Members Matriculation Numbers
+
+| S/N | Matric Number |
+|----|---------------|
+| 1 | BASUG/UG/BMS/ANA/22/4858|
+| 2 | BASUG/UG/BMS/ANA/22/6477|
+| 3 | BASUG/UG/BMS/ANA/22/4104 |
+| 4 | BASUG/UG/BMS/ANA/22/6276 |
+| 5 | BASUG/UG/BMS/ANA/22/7485 |
+
  
