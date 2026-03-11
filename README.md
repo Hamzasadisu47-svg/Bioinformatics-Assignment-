@@ -26,9 +26,9 @@ Generate structured data outputs suitable for downstream analysis.
 Develop clear and professional project documentation using 
  
 NAme of the contributor 
-1. Hamza sadisu
+1.Hamza sadisu
 
-2. sulaiman Abubakar 
+2.sulaiman Abubakar 
 
 3.fatima isyaku waxiri
 
@@ -38,4 +38,13 @@ NAme of the contributor
 
  GIthub username
 
+@hamzasadisu@47-svg
+
+@fatimawaziri528-oss
+
+@Abubakrsulaiman-dot
+
+@basiruadamudamare
+
+@zahrahusman
  
