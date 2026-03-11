@@ -78,4 +78,13 @@ zahrahusman
 | 4 | BASUG/UG/BMS/ANA/22/6276 |
 | 5 | BASUG/UG/BMS/ANA/22/7485 |
 
+
+Area of interest in bionformatic
+hamza sadisu:
+fatima isyaku waziri:
+sulaiman Abubakr:
+basiru Adamu damare:
+zahra usaman iliyasu:
+
+
  
